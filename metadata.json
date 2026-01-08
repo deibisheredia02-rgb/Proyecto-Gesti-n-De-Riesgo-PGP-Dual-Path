@@ -1,0 +1,5 @@
+{
+  "name": "Proyecto-Gesti-n-De-Riesgo-PGP-Dual-Path",
+  "description": "Dashboard industrial con arquitectura Dual-Path (Normal/Alerta) para gestión de riesgos y métricas HSEQ, optimizado para React 18 y desplegado en GitHub.",
+  "requestFramePermissions": []
+}
